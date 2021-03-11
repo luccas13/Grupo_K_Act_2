@@ -18,4 +18,26 @@ del curso 1 de Git.
 - Luciano Montero
 
 ## Sobre el Proyecto
-(Falta agregar características del proyecto).
+
+Nombre
+------------------------------
+
+> 💡 Nerstark - GitHub & GitHub
+
+Alcance
+------------------------------
+
+> 💡 Poder plastmar los conocimientos adquiridos hasta el momento del curso.
+
+Requisitos
+------------------------------
+
+> 💡 Diseño: Responsive y que sea compatible con dispositivos móviles 
+> 💡 Código: HTML y CSS
+
+Objetivo
+------------------------------
+
+> 💡 Manejo de issues
+> 💡 Practica Pull Requests
+> 💡 Fujo de trabajo con Git & GitHub
