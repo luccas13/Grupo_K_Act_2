@@ -22,17 +22,16 @@ del curso 1 de Git.
 Nombre
 ------------------------------
 
-> 💡 Nerstark - GitHub & GitHub
+> 💡 MernStack - Git & GitHub
 
 Alcance
 ------------------------------
 
-> 💡 Poder plastmar los conocimientos adquiridos hasta el momento del curso.
+> 💡 Poder plasmar los conocimientos adquiridos hasta el momento del curso.
 
-Requisitos
+Lenguajes
 ------------------------------
 
-> 💡 Diseño: Responsive y que sea compatible con dispositivos móviles 
 > 💡 Código: HTML y CSS
 
 Objetivo
@@ -40,4 +39,4 @@ Objetivo
 
 > 💡 Manejo de issues
 > 💡 Practica Pull Requests
-> 💡 Fujo de trabajo con Git & GitHub
+> 💡 Flujo de trabajo con Git & GitHub
