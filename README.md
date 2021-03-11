@@ -18,4 +18,25 @@ del curso 1 de Git.
 - Luciano Montero
 
 ## Sobre el Proyecto
-(Falta agregar características del proyecto).
+
+Nombre
+------------------------------
+
+> 💡 MernStack - Git & GitHub
+
+Alcance
+------------------------------
+
+> 💡 Poder plasmar los conocimientos adquiridos hasta el momento del curso.
+
+Lenguajes
+------------------------------
+
+> 💡 Código: HTML y CSS
+
+Objetivo
+------------------------------
+
+> 💡 Manejo de issues
+> 💡 Practica Pull Requests
+> 💡 Flujo de trabajo con Git & GitHub
