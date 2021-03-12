@@ -1,9 +1,6 @@
 @charset "utf-8";
 
-#nav_principal {
-}
-
-li{
+#nav_principal li{
 	display: inline;
 	padding-right: 25px;
 	padding-top: 10px;
